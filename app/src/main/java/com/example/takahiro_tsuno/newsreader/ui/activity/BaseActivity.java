@@ -1,19 +1,18 @@
 package com.example.takahiro_tsuno.newsreader.ui.activity;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 
 import com.example.takahiro_tsuno.newsreader.R;
 
 
-public class HomeActivity extends BaseActivity {
+public abstract class BaseActivity extends ActionBarActivity {
 
-    @Override
-    protected int getLayoutResourceId() {
-        return R.layout.activity_home;
-    }
+    protected abstract int getLayoutResourceId();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(getLayoutResourceId());
     }
 }
