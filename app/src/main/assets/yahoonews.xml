@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule" version="2.0">
+    <channel>
+        <title>Yahoo!ニュース・トピックス - 経済</title>
+        <link>http://headlines.yahoo.co.jp/hl?c=bus</link>
+        <description>Yahoo! JAPANのニュース・トピックスで取り上げている最新の見出しを提供しています。</description>
+        <language>ja</language>
+        <pubDate>Mon, 09 Feb 2015 19:47:10 +0900</pubDate>
+        <item>
+            <title>経団連 初の女性役員が誕生へ</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/nihon_keizai_dantai_rengoukai/?id=6149062</link>
+            <pubDate>Mon, 09 Feb 2015 19:02:44 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6149062</guid>
+        </item>
+        <item>
+            <title>東電と中部電 包括提携で合意</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/electric_companies/?id=6149054</link>
+            <pubDate>Mon, 09 Feb 2015 17:18:51 +0900</pubDate>
+            <guid isPermaLink="false">yahoo/news/topics/6149054</guid>
+        </item>
+        <item>
+            <title>パナ 一般社員も脱年功序列</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/matsushita/?id=6149056</link>
+            <pubDate>Mon, 09 Feb 2015 18:09:25 +0900</pubDate>
+            <guid isPermaLink="false">yahoo/news/topics/6149056</guid>
+        </item>
+        <item>
+            <title>中国でスマホ減速 電機の苦難</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/electric_household_appliances/?id=6149044</link>
+            <pubDate>Mon, 09 Feb 2015 16:21:46 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6149044</guid>
+        </item>
+        <item>
+            <title>HIS スカイマーク株大量売却</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/skymark/?id=6149029</link>
+            <pubDate>Mon, 09 Feb 2015 13:51:55 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6149029</guid>
+        </item>
+        <item>
+            <title>大阪駅「ルクア1100」の勝算</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/department_store/?id=6149018</link>
+            <pubDate>Mon, 09 Feb 2015 12:36:36 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6149018</guid>
+        </item>
+        <item>
+            <title>政策裏目 増え続ける新築住宅</title>
+            <link>http://dailynews.yahoo.co.jp/fc/domestic/living_environment/?id=6149011</link>
+            <pubDate>Mon, 09 Feb 2015 12:07:41 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6149011</guid>
+        </item>
+        <item>
+            <title>JT飲料撤退 再編ドミノの足音</title>
+            <link>http://dailynews.yahoo.co.jp/fc/economy/drinks/?id=6148992</link>
+            <pubDate>Mon, 09 Feb 2015 10:13:11 +0900</pubDate>
+            <enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif">
+            </enclosure>
+            <guid isPermaLink="false">yahoo/news/topics/6148992</guid>
+        </item>
+    </channel>
+</rss>
